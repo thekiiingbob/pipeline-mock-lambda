@@ -1,0 +1,13 @@
+{
+  "name": "pipeline-mock-lambda",
+  "main": "index.js",
+  "dependencies": {
+    "@pulumi/aws": "latest",
+    "@pulumi/cloud": "^0.14.0",
+    "@pulumi/cloud-aws": "^0.14.0",
+    "@pulumi/pulumi": "latest"
+  },
+  "devDependencies": {
+    "@lifesize/ls_mms_js_client": "^0.2.0"
+  }
+}

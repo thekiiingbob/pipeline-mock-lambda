@@ -1,0 +1,3 @@
+name: pipeline-mock-lambda
+description: Mock lambda for testing AWS Codepipelines
+runtime: nodejs
